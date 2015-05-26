@@ -1,0 +1,42 @@
+c:\users\zjzh\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\zjzh\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\zjzh\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\zjzh\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\zjzh\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\zjzh\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\zjzh\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\zjzh\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\zjzh\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\ZJZH\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ZJZH\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\ZJZH\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResGen.write.1.tlog
+E:\微云同步盘\915505626\2014\项目\智能坐垫+红外检测\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\微云同步盘\915505626\2014\项目\智能坐垫+红外检测\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\微云同步盘\915505626\2014\项目\智能坐垫+红外检测\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\微云同步盘\915505626\2014\项目\智能坐垫+红外检测\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\微云同步盘\915505626\2014\项目\智能坐垫+红外检测\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\微云同步盘\915505626\2014\项目\智能坐垫+红外检测\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\微云同步盘\915505626\2014\项目\智能坐垫+红外检测\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\微云同步盘\915505626\2014\项目\智能坐垫+红外检测\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResGen.read.1.tlog
+E:\微云同步盘\915505626\2014\项目\智能坐垫+红外检测\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\微云同步盘\915505626\2014\项目\智能坐垫+红外检测\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResGen.write.1.tlog
+E:\微云同步盘\915505626\2014\项目\智能坐垫+红外检测\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\微云同步盘\915505626\2014\项目\智能坐垫+红外检测\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\微云同步盘\2014\项目\智能坐垫+红外检测\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\微云同步盘\2014\项目\智能坐垫+红外检测\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\微云同步盘\2014\项目\智能坐垫+红外检测\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+\\psf\Home\Desktop\智能坐垫\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+\\psf\Home\Desktop\智能坐垫\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+\\psf\Home\Desktop\智能坐垫\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+\\psf\H\备份windows工程\智能坐垫\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+\\psf\H\备份windows工程\智能坐垫\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+\\psf\H\备份windows工程\智能坐垫\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+\\psf\H\备份windows工程\智能坐垫\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+\\psf\H\备份windows工程\智能坐垫\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+\\psf\H\备份windows工程\智能坐垫\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+\\psf\H\备份windows工程\智能坐垫\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+\\psf\H\备份windows工程\智能坐垫\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\psf\H\备份windows工程\智能坐垫\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+\\psf\H\备份windows工程\智能坐垫\WindowsFormsApplication1\obj\x86\Debug\ResGen.read.1.tlog
+\\psf\H\备份windows工程\智能坐垫\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+\\psf\H\备份windows工程\智能坐垫\WindowsFormsApplication1\obj\x86\Debug\ResGen.write.1.tlog
