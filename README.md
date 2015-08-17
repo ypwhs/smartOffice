@@ -1,4 +1,8 @@
 #智能办公
+##单片机
+
+###[红外检测](https://github.com/ypwhs/arduino/blob/master/HongWaiJianCe/HongWaiJianCe.ino)
+###[坐垫检测](https://github.com/ypwhs/arduino/blob/master/HX711/HX711.ino)
 
 ##图
 
